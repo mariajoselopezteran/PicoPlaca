@@ -1439,14 +1439,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "PicoPlaca.Library/1.0.0": {
+      "PicoPlacaLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "compile": {
-          "bin/placeholder/PicoPlaca.Library.dll": {}
+          "bin/placeholder/PicoPlacaLibrary.dll": {}
         },
         "runtime": {
-          "bin/placeholder/PicoPlaca.Library.dll": {}
+          "bin/placeholder/PicoPlacaLibrary.dll": {}
         }
       }
     }
@@ -5208,17 +5208,17 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "PicoPlaca.Library/1.0.0": {
+    "PicoPlacaLibrary/1.0.0": {
       "type": "project",
-      "path": "../PicoPlaca.Library/PicoPlaca.Library.csproj",
-      "msbuildProject": "../PicoPlaca.Library/PicoPlaca.Library.csproj"
+      "path": "../PicoPlaca.Library/PicoPlacaLibrary.csproj",
+      "msbuildProject": "../PicoPlaca.Library/PicoPlacaLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
       "Microsoft.NET.Test.Sdk >= 16.2.0",
       "NUnit3TestAdapter >= 3.13.0",
-      "PicoPlaca.Library >= 1.0.0",
+      "PicoPlacaLibrary >= 1.0.0",
       "nunit >= 3.12.0"
     ]
   },
@@ -5229,11 +5229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlaca\\PicoPlaca.Test\\PicoPlaca.Test.csproj",
-      "projectName": "PicoPlaca.Test",
-      "projectPath": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlaca\\PicoPlaca.Test\\PicoPlaca.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlacaT\\PicoPlaca\\PicoPlaca.Test\\PicoPlacaTest.csproj",
+      "projectName": "PicoPlacaTest",
+      "projectPath": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlacaT\\PicoPlaca\\PicoPlaca.Test\\PicoPlacaTest.csproj",
       "packagesPath": "C:\\Users\\Lopez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlaca\\PicoPlaca.Test\\obj\\",
+      "outputPath": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlacaT\\PicoPlaca\\PicoPlaca.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5256,8 +5256,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Lopez\\Documents\\Source\\PicoPlaca\\PicoPlaca.Library\\PicoPlaca.Library.csproj": {
-              "projectPath": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlaca\\PicoPlaca.Library\\PicoPlaca.Library.csproj"
+            "C:\\Users\\Lopez\\Documents\\Source\\PicoPlacaT\\PicoPlaca\\PicoPlaca.Library\\PicoPlacaLibrary.csproj": {
+              "projectPath": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlacaT\\PicoPlaca\\PicoPlaca.Library\\PicoPlacaLibrary.csproj"
             }
           }
         }

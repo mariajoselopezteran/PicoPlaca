@@ -1,0 +1,3 @@
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca.Test\obj\Debug\netcoreapp3.0\PicoPlacaTest.csprojAssemblyReference.cache
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca.Test\obj\Debug\netcoreapp3.0\PicoPlacaTest.AssemblyInfoInputs.cache
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca.Test\obj\Debug\netcoreapp3.0\PicoPlacaTest.AssemblyInfo.cs

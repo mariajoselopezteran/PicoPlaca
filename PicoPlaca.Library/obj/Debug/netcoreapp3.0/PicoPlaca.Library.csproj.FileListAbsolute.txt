@@ -6,3 +6,11 @@ C:\Users\Lopez\Documents\Source\PicoPlaca\PicoPlaca.Library\obj\Debug\netcoreapp
 C:\Users\Lopez\Documents\Source\PicoPlaca\PicoPlaca.Library\obj\Debug\netcoreapp3.0\PicoPlaca.Library.dll
 C:\Users\Lopez\Documents\Source\PicoPlaca\PicoPlaca.Library\obj\Debug\netcoreapp3.0\PicoPlaca.Library.pdb
 C:\Users\Lopez\Documents\Source\PicoPlaca\PicoPlaca.Library\obj\Debug\netcoreapp3.0\PicoPlaca.Library.csprojAssemblyReference.cache
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca.Library\bin\Debug\netcoreapp3.0\PicoPlaca.Library.deps.json
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca.Library\bin\Debug\netcoreapp3.0\PicoPlaca.Library.dll
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca.Library\bin\Debug\netcoreapp3.0\PicoPlaca.Library.pdb
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca.Library\obj\Debug\netcoreapp3.0\PicoPlaca.Library.csprojAssemblyReference.cache
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca.Library\obj\Debug\netcoreapp3.0\PicoPlaca.Library.AssemblyInfoInputs.cache
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca.Library\obj\Debug\netcoreapp3.0\PicoPlaca.Library.AssemblyInfo.cs
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca.Library\obj\Debug\netcoreapp3.0\PicoPlaca.Library.dll
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca.Library\obj\Debug\netcoreapp3.0\PicoPlaca.Library.pdb

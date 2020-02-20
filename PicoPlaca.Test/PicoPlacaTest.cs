@@ -1,7 +1,7 @@
 using NUnit.Framework;
-using PicoPlaca.Library;
+using PicoPlacaLibrary;
 
-namespace PicoPlaca.Test
+namespace PicoPlacaTest
 {
     public class PicoPlacaTest
     {
@@ -18,7 +18,7 @@ namespace PicoPlaca.Test
             bool actual = true;
 
             //Act
-            var output = PicoPlaca.Library.PicoPlaca.IsPlaqueValid(plaque);
+            var output = PicoPlaca.IsPlaqueValid(plaque);
 
             //Arrange
             Assert.AreEqual(actual,output);
@@ -32,7 +32,7 @@ namespace PicoPlaca.Test
             bool actual = true;
 
             //Act
-            var output = PicoPlaca.Library.PicoPlaca.IsPlaqueValid(plaque);
+            var output = PicoPlaca.IsPlaqueValid(plaque);
 
             //Arrange
             Assert.AreEqual(actual, output);
@@ -46,7 +46,7 @@ namespace PicoPlaca.Test
             bool actual = false;
 
             //Act
-            var output = PicoPlaca.Library.PicoPlaca.IsPlaqueValid(plaque);
+            var output = PicoPlaca.IsPlaqueValid(plaque);
 
             //Arrange
             Assert.AreEqual(actual, output);
@@ -60,7 +60,7 @@ namespace PicoPlaca.Test
             bool actual = false;
 
             //Act
-            var output = PicoPlaca.Library.PicoPlaca.IsPlaqueValid(plaque);
+            var output = PicoPlaca.IsPlaqueValid(plaque);
 
             //Arrange
             Assert.AreEqual(actual, output);
@@ -74,7 +74,7 @@ namespace PicoPlaca.Test
             bool actual = true;
 
             //Act
-            var output = PicoPlaca.Library.PicoPlaca.IsPlaqueValid(plaque);
+            var output = PicoPlaca.IsPlaqueValid(plaque);
 
             //Arrange
             Assert.AreEqual(actual, output);
@@ -88,7 +88,7 @@ namespace PicoPlaca.Test
             bool actual = false;
 
             //Act
-            var output = PicoPlaca.Library.PicoPlaca.IsPlaqueValid(plaque);
+            var output = PicoPlaca.IsPlaqueValid(plaque);
 
             //Arrange
             Assert.AreEqual(actual, output);
@@ -102,7 +102,7 @@ namespace PicoPlaca.Test
             bool actual = true;
 
             //Act
-            var output = PicoPlaca.Library.PicoPlaca.IsPlaqueValid(plaque);
+            var output = PicoPlaca.IsPlaqueValid(plaque);
 
             //Arrange
             Assert.AreEqual(actual, output);
@@ -116,7 +116,7 @@ namespace PicoPlaca.Test
             bool actual = true;
 
             //Act
-            var output = PicoPlaca.Library.PicoPlaca.IsPlaqueValid(plaque);
+            var output = PicoPlaca.IsPlaqueValid(plaque);
 
             //Arrange
             Assert.AreEqual(actual, output);

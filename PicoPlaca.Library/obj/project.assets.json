@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlaca\\PicoPlaca.Library\\PicoPlaca.Library.csproj",
-      "projectName": "PicoPlaca.Library",
-      "projectPath": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlaca\\PicoPlaca.Library\\PicoPlaca.Library.csproj",
+      "projectUniqueName": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlacaT\\PicoPlaca\\PicoPlaca.Library\\PicoPlacaLibrary.csproj",
+      "projectName": "PicoPlacaLibrary",
+      "projectPath": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlacaT\\PicoPlaca\\PicoPlaca.Library\\PicoPlacaLibrary.csproj",
       "packagesPath": "C:\\Users\\Lopez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlaca\\PicoPlaca.Library\\obj\\",
+      "outputPath": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlacaT\\PicoPlaca\\PicoPlaca.Library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
