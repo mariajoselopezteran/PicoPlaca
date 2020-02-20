@@ -61,6 +61,7 @@ namespace PicoPlaca
                     if (action == "0")
                     {
                         isFinished = true;
+                        isActionValid = false;
                     }
                     else
                     {

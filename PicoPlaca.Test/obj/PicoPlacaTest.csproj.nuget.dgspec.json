@@ -86,7 +86,12 @@
       "restore": {
         "projectUniqueName": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlacaT\\PicoPlaca\\PicoPlacaNet\\PicoPlacaLibrary.csproj",
         "projectName": "PicoPlacaLibrary",
-        "projectPath": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlacaT\\PicoPlaca\\PicoPlacaNet\\PicoPlacaLibrary.csproj"
+        "projectPath": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlacaT\\PicoPlaca\\PicoPlacaNet\\PicoPlacaLibrary.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
       },
       "frameworks": {
         "net472": {}
