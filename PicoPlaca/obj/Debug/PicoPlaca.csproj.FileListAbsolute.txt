@@ -4,3 +4,6 @@ C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca\bin\Debug\PicoPla
 C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca\bin\Debug\PicoPlaca.pdb
 C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.exe
 C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.pdb
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca\bin\Debug\PicoPlacaNet.dll
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca\bin\Debug\PicoPlacaNet.pdb
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.csproj.CopyComplete

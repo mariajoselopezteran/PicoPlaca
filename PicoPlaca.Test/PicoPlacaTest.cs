@@ -129,7 +129,7 @@ namespace PicoPlacaTest
         public void PicoPlaca_WithDateCorrectLength_ReturnsTrue()
         {
             //Arrange
-            string date = "21/10/2020";
+            string date = "22/02/2020";
             bool actual = true;
 
             //Act

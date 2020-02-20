@@ -100,23 +100,23 @@ namespace PicoPlacaLibrary
                 switch (day)
                 {
                     case 1:
-                        if (plateNumberDay == 1 && plateNumberDay == 2)
+                        if (plateNumberDay == 1 || plateNumberDay == 2)
                             isPlateInASameDay = true;
                         break;
                     case 2:
-                        if (plateNumberDay == 3 && plateNumberDay == 4)
+                        if (plateNumberDay == 3 || plateNumberDay == 4)
                             isPlateInASameDay = true;
                         break;
                     case 3:
-                        if (plateNumberDay != 5 && plateNumberDay != 6)
+                        if (plateNumberDay == 5 || plateNumberDay != 6)
                             isPlateInASameDay = true;
                         break;
                     case 4:
-                        if (plateNumberDay != 7 && plateNumberDay != 8)
+                        if (plateNumberDay == 7 || plateNumberDay != 8)
                             isPlateInASameDay = true;
                         break;
                     case 5:
-                        if (plateNumberDay != 9 && plateNumberDay != 0)
+                        if (plateNumberDay == 9 || plateNumberDay != 0)
                             isPlateInASameDay = true;
                         break;
                 }
