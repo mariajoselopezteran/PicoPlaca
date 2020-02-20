@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PicoPlaca.Library\PicoPlacaLibrary.csproj" />
+    <ProjectReference Include="..\PicoPlacaNet\PicoPlacaLibrary.csproj" />
   </ItemGroup>
 
 </Project>

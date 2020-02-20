@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Globalization;
-using System.Text;
 using System.Text.RegularExpressions;
 
 namespace PicoPlacaLibrary
@@ -15,7 +13,7 @@ namespace PicoPlacaLibrary
             {
                 int numbers = Regex.Match(carPlate, @"\d+").Value.Length;
                 int letters = carPlate.Length - numbers;
-                
+
                 //Verify that ther are 3 letters and 3 or 4 numbers
                 if (letters == 3 && (numbers >= 3 || numbers < 5))
                 {
@@ -40,23 +38,23 @@ namespace PicoPlacaLibrary
                 string dateformat = "dd/MM/yyyy";
                 DateTime.TryParseExact(date, dateformat, new CultureInfo("es-Es"), DateTimeStyles.None, out dateValue);
 
-                if(dateValue != DateTime.MinValue)
+                if (dateValue != DateTime.MinValue)
                     isDateValid = true;
             }
-                
-            
+
+
             return isDateValid;
         }
 
         public static bool IsWeekDate(string date)
         {
             bool isWeekDate = false;
-            if(IsDateValid(date))
+            if (IsDateValid(date))
             {
                 var dateValue = DateTime.Parse(date);
                 int dayNumberOfWeek = (int)dateValue.DayOfWeek;
 
-                if (dayNumberOfWeek >0 && dayNumberOfWeek <= 5)
+                if (dayNumberOfWeek > 0 && dayNumberOfWeek <= 5)
                 {
                     isWeekDate = true;
                 }
@@ -73,16 +71,16 @@ namespace PicoPlacaLibrary
 
             if (time.Length == 5)
             {
-                if (Regex.IsMatch(time.Substring(0, 2), @"\d+") && time.Substring(2, 1)==":" && Regex.IsMatch(time.Substring(3, 2), @"\d+"))
+                if (Regex.IsMatch(time.Substring(0, 2), @"\d+") && time.Substring(2, 1) == ":" && Regex.IsMatch(time.Substring(3, 2), @"\d+"))
                 {
                     int hour = int.Parse(time.Substring(0, 2));
                     int minutes = int.Parse(time.Substring(3, 2));
-                    if ((hour>= 0 && hour <25) && (minutes>= 0 && minutes <61))
+                    if ((hour >= 0 && hour < 25) && (minutes >= 0 && minutes < 61))
                         isTimeValid = true;
                 }
-                    
+
             }
-                
+
 
             return isTimeValid;
         }
@@ -153,3 +151,4 @@ namespace PicoPlacaLibrary
         }
     }
 }
+

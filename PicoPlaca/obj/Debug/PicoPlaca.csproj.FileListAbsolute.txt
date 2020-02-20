@@ -1,6 +1,6 @@
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.csprojAssemblyReference.cache
 C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca\bin\Debug\PicoPlaca.exe.config
 C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca\bin\Debug\PicoPlaca.exe
 C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca\bin\Debug\PicoPlaca.pdb
-C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.csprojAssemblyReference.cache
 C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.exe
 C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.pdb

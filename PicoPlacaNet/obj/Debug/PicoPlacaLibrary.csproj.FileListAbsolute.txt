@@ -1,0 +1,5 @@
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlacaNet\bin\Debug\PicoPlacaNet.dll
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlacaNet\bin\Debug\PicoPlacaNet.pdb
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlacaNet\obj\Debug\PicoPlacaLibrary.csprojAssemblyReference.cache
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlacaNet\obj\Debug\PicoPlacaNet.dll
+C:\Users\Lopez\Documents\Source\PicoPlacaT\PicoPlaca\PicoPlacaNet\obj\Debug\PicoPlacaNet.pdb

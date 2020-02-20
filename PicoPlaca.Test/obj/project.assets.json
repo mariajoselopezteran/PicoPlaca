@@ -1441,7 +1441,6 @@
       },
       "PicoPlacaLibrary/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
         "compile": {
           "bin/placeholder/PicoPlacaLibrary.dll": {}
         },
@@ -5210,8 +5209,8 @@
     },
     "PicoPlacaLibrary/1.0.0": {
       "type": "project",
-      "path": "../PicoPlaca.Library/PicoPlacaLibrary.csproj",
-      "msbuildProject": "../PicoPlaca.Library/PicoPlacaLibrary.csproj"
+      "path": "../PicoPlacaNet/PicoPlacaLibrary.csproj",
+      "msbuildProject": "../PicoPlacaNet/PicoPlacaLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5256,8 +5255,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Lopez\\Documents\\Source\\PicoPlacaT\\PicoPlaca\\PicoPlaca.Library\\PicoPlacaLibrary.csproj": {
-              "projectPath": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlacaT\\PicoPlaca\\PicoPlaca.Library\\PicoPlacaLibrary.csproj"
+            "C:\\Users\\Lopez\\Documents\\Source\\PicoPlacaT\\PicoPlaca\\PicoPlacaNet\\PicoPlacaLibrary.csproj": {
+              "projectPath": "C:\\Users\\Lopez\\Documents\\Source\\PicoPlacaT\\PicoPlaca\\PicoPlacaNet\\PicoPlacaLibrary.csproj"
             }
           }
         }
